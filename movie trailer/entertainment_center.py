@@ -25,7 +25,7 @@ movie2 = media.Movie("Dangal",
 #Instance 3
 movie3 = media.Movie("3 idiots",
                      "Story about why one should follow his own dreams",
-                     "http://kingofwallpapers.com/3-idiots/3-idiots-009.jpg",
+                     "http://tremendouswallpapers.com/wp-content/uploads/2014/12/3-idiots-06.jpg",
                      "https://www.youtube.com/watch?v=K0eDlFX9GMc")
 
 #Instance 4
